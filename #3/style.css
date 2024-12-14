@@ -1,0 +1,32 @@
+.titulo-noticia {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    font-size: 50px;
+}
+
+.destaque {
+    color: red;
+}
+
+.paragrafo-destaque {
+    text-align: justify;
+    font-size: 30px;
+    color: red;
+}
+
+.card-noticia {
+    background-color: rgb(242, 255, 0);
+    padding: 30px;
+    margin: 50px 300px;
+    border: 5px dotted red;
+}
+
+h1 {
+    text-align: center;
+    margin: 100px 0px 20px 0px;
+}
+
+h2 {
+    text-align: center;
+}
